@@ -1,0 +1,10 @@
+name: RPG-Story
+repository: https://github.com/vortexdevsoftware/RPG-Story
+creators:
+  - Igor Alexey
+  # Add your name here if contributed.
+description: >
+  Add roleplaying project type, very customizable.
+
+# License Information
+license: GPL-3.0 license
