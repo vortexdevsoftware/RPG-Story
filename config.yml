@@ -1,10 +1,12 @@
-name: RPG-Story
-repository: https://github.com/vortexdevsoftware/RPG-Story
+## MythicAI RPG-Story Plugin
+
+name: Roleplay Story
 creators:
   - Igor Alexey
-  # Add your name here if contributed.
 description: >
-  Add roleplaying project type, very customizable.
+  RPG-Story project type for MythicAI.
 
-# License Information
-license: GPL-3.0 license
+license: GPL-3.0
+repository: https://github.com/vortexdevsoftware/RPG-Story
+
+# Come contribute! ;-)
